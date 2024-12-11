@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CHS-01")(type "KiCad")(uri "/Users/ellise/Documents/KiCad/Clockshift/Symbol_Library/CHS-01.kicad_sym")(options "")(descr ""))
+  (lib (name "CS-4-13")(type "KiCad")(uri "/Users/ellise/Documents/KiCad/Clockshift/Symbol_Library/CS-4-13.kicad_sym")(options "")(descr ""))
+  (lib (name "PV36")(type "KiCad")(uri "/Users/ellise/Documents/KiCad/Clockshift/Symbol_Library/PV36.kicad_sym")(options "")(descr ""))
+  (lib (name "LTC6905")(type "KiCad")(uri "/Users/ellise/Documents/KiCad/Clockshift/Symbol_Library/LTC6905.kicad_sym")(options "")(descr ""))
+)
