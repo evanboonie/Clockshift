@@ -1,0 +1,4 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"J1","1107741","~","Library:PinHeader_2x07_4pop_P2.54mmX7.62mm_Vertical","1",""
+"J2","220-1-08-003","~","Library:PinHeader_2x04_6pop_P2.54mmX7.62mm_Vertical","1",""
+"SW1","CHS-01TB","https://www.nidec-components.com/e/catalog/switch/chs.pdf","Library:CHS-01B_NDC","1",""

@@ -1,0 +1,8 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"C1","1n","~","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","1",""
+"C2","0.1u","~","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","1",""
+"J1","220-1-14-003","~","Library:PinHeader_2x07_4pop_P2.54mmX7.62mm_Vertical","1",""
+"R1","10K","~","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","1",""
+"RV1","SM-3TW203","https://www.nidec-components.com/e/catalog/trimmer/sm-3&sm-31.pdf","Library:SM-3W","1",""
+"SW1","CS-4-13NTA","https://www.nidec-components.com/e/catalog/switch/cs-4.pdf","Library:CS-4-13NA_NDC","1",""
+"U1","LTC6905","https://www.analog.com/media/en/technical-documentation/data-sheets/6905fd.pdf","Library:S_5_ADI","1",""
